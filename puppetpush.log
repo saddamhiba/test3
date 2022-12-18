@@ -1,0 +1,42 @@
+2022-11-29T11:31:46.488280+00:00 uk-puppetstage-1 puppet-push[27666][sangirekula]: --------------------------------------------
+2022-11-29T11:31:46.492071+00:00 uk-puppetstage-1 puppet-push[27666][sangirekula]: ZA: /etc/puppet/modules/mimecast_sea_star_server_toolkit/files/caps/ingestion-management/ZA/caps-override.json  DIFF:
+2022-11-29T11:31:46.511451+00:00 uk-puppetstage-1 puppet-push[27666][sangirekula]: Promoting /etc/puppet/modules/mimecast_sea_star_server_toolkit/files/caps/ingestion-management/ZA/caps-override.json  to za-puppet-2.za.mimecast.lan
+2022-11-29T11:31:46.496044+00:00 uk-puppetstage-1 puppet-push[27666][sangirekula]: 
+2022-11-29T11:31:46.502984+00:00 uk-puppetstage-1 puppet-push[27666][sangirekula]: Promoting /etc/puppet/modules/mimecast_sea_star_server_toolkit/files/caps/ingestion-management/ZA/caps-override.json  to za-puppet-1.za.mimecast.lan
+2022-11-29T11:31:10.690994+00:00 uk-puppetstage-1 puppet-push[27343][sangirekula]: 
+2022-11-29T11:31:10.687220+00:00 uk-puppetstage-1 puppet-push[27343][sangirekula]: ZA: /etc/puppet/modules/mimecast_sea_star_server_toolkit/files/caps/common/ZA/caps-override.json  DIFF:
+2022-11-29T11:31:10.711405+00:00 uk-puppetstage-1 puppet-push[27343][sangirekula]: Promoting /etc/puppet/modules/mimecast_sea_star_server_toolkit/files/caps/common/ZA/caps-override.json  to za-puppet-2.za.mimecast.lan
+2022-11-29T11:31:10.697542+00:00 uk-puppetstage-1 puppet-push[27343][sangirekula]: Promoting /etc/puppet/modules/mimecast_sea_star_server_toolkit/files/caps/common/ZA/caps-override.json  to za-puppet-1.za.mimecast.lan
+2022-11-29T11:31:10.681546+00:00 uk-puppetstage-1 puppet-push[27343][sangirekula]: --------------------------------------------
+2022-11-29T11:30:46.827273+00:00 uk-puppetstage-1 puppet-push[27120][sangirekula]: 
+2022-11-29T11:30:46.844813+00:00 uk-puppetstage-1 puppet-push[27120][sangirekula]: Promoting /etc/puppet/modules/mimecast_sea_star_server_toolkit/files/caps/apps/ZA/caps-override.json  to za-puppet-2.za.mimecast.lan
+2022-11-29T11:30:46.834031+00:00 uk-puppetstage-1 puppet-push[27120][sangirekula]: Promoting /etc/puppet/modules/mimecast_sea_star_server_toolkit/files/caps/apps/ZA/caps-override.json  to za-puppet-1.za.mimecast.lan
+2022-11-29T11:30:46.822895+00:00 uk-puppetstage-1 puppet-push[27120][sangirekula]: ZA: /etc/puppet/modules/mimecast_sea_star_server_toolkit/files/caps/apps/ZA/caps-override.json  DIFF:
+2022-11-29T11:30:46.818958+00:00 uk-puppetstage-1 puppet-push[27120][sangirekula]: --------------------------------------------
+2022-11-29T11:24:25.478241+00:00 uk-puppetstage-1 puppet-push[25592][sangirekula]: Promoting /etc/puppet/modules/mimecast_web_container/files/scripts/ZA/mimecast-admin-console.caps.json  to za-puppet-1.za.mimecast.lan
+2022-11-29T11:24:25.488628+00:00 uk-puppetstage-1 puppet-push[25592][sangirekula]: Promoting /etc/puppet/modules/mimecast_web_container/files/scripts/ZA/mimecast-admin-console.caps.json  to za-puppet-2.za.mimecast.lan
+2022-11-29T11:24:25.471338+00:00 uk-puppetstage-1 puppet-push[25592][sangirekula]: 
+2022-11-29T11:24:25.467387+00:00 uk-puppetstage-1 puppet-push[25592][sangirekula]: ZA: /etc/puppet/modules/mimecast_web_container/files/scripts/ZA/mimecast-admin-console.caps.json  DIFF:
+2022-11-29T11:24:25.463405+00:00 uk-puppetstage-1 puppet-push[25592][sangirekula]: --------------------------------------------
+2022-11-29T11:15:00.229913+00:00 uk-puppetstage-1 puppet-push[17133][hambrose]: DEV: /etc/puppet/modules/postgres  DIFF:
+2022-11-29T11:15:00.240578+00:00 uk-puppetstage-1 puppet-push[17133][hambrose]: Promoting /etc/puppet/modules/postgres  to dev-puppet-1.dev.mimecast.lan
+2022-11-29T11:15:00.274332+00:00 uk-puppetstage-1 puppet-push[17133][hambrose]: Promoting /etc/puppet/modules/postgres  to devrh-puppet-2.devrh.mimecast.lan
+2022-11-29T11:15:00.233884+00:00 uk-puppetstage-1 puppet-push[17133][hambrose]: 
+2022-11-29T11:15:00.263977+00:00 uk-puppetstage-1 puppet-push[17133][hambrose]: Promoting /etc/puppet/modules/postgres  to devrh-puppet-1.devrh.mimecast.lan
+2022-11-29T11:15:00.249531+00:00 uk-puppetstage-1 puppet-push[17133][hambrose]: Promoting /etc/puppet/modules/postgres  to dev-puppet-2.dev.mimecast.lan
+2022-11-29T11:15:00.226065+00:00 uk-puppetstage-1 puppet-push[17133][hambrose]: --------------------------------------------
+2022-11-29T11:12:21.070895+00:00 uk-puppetstage-1 puppet-push[16233][mhakeemhabeeb]: DEV: /etc/puppet/modules/profile/manifests/dbserver.pp  DIFF:
+2022-11-29T11:12:21.066623+00:00 uk-puppetstage-1 puppet-push[16233][mhakeemhabeeb]: --------------------------------------------
+2022-11-29T11:12:21.081033+00:00 uk-puppetstage-1 puppet-push[16233][mhakeemhabeeb]: Promoting /etc/puppet/modules/profile/manifests/dbserver.pp  to dev-puppet-1.dev.mimecast.lan
+2022-11-29T11:12:21.088781+00:00 uk-puppetstage-1 puppet-push[16233][mhakeemhabeeb]: Promoting /etc/puppet/modules/profile/manifests/dbserver.pp  to dev-puppet-2.dev.mimecast.lan
+2022-11-29T11:12:21.105917+00:00 uk-puppetstage-1 puppet-push[16233][mhakeemhabeeb]: Promoting /etc/puppet/modules/profile/manifests/dbserver.pp  to devrh-puppet-1.devrh.mimecast.lan
+2022-11-29T11:12:21.115150+00:00 uk-puppetstage-1 puppet-push[16233][mhakeemhabeeb]: Promoting /etc/puppet/modules/profile/manifests/dbserver.pp  to devrh-puppet-2.devrh.mimecast.lan
+2022-11-29T11:12:21.074496+00:00 uk-puppetstage-1 puppet-push[16233][mhakeemhabeeb]: 
+2022-11-29T11:07:11.060858+00:00 uk-puppetstage-1 puppet-push[13813][dduquenoy]: Promoting /etc/puppet/modules/nagios_agent/files/scripts/nrpe_plugins/mta/check_mta_capacity.rb  to uk-puppet-1.uk.mimecast.lan
+ ^%{DATA:process.name}: %{NUMBER:process.id} 
+ (
+ %{DATA:message.info}: %{DATESTAMP:@timestamp}\n
+ (?<key_value>(.|\n|\t|\r)+)
+ $|%{DATESTAMP:@timestamp} %{DATA:message.info}\n(?<bytes>(.|\n|\t|\r)+)$)"
+       
+                                                                                                                                                    
